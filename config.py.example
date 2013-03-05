@@ -1,0 +1,14 @@
+
+
+pushover = {
+  'token': 'Pushover App Token',
+  'user': 'Pushover User Token'
+}
+
+campfire = {
+  'name': 'Your Name',
+  'host': 'host',
+  'user': 'email@host.com',
+  'password': 'password',
+  'rooms': ['Room_to_watch']
+}
